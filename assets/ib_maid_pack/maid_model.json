@@ -1,0 +1,22 @@
+{
+	"pack_name": "{maid_pack.ib_maid_pack.name}",
+	"author": ["jingjing2016"],
+	"description": ["{maid_pack.ib_maid_pack.desc}"],
+	"date": "2021-2-8",
+	"icon": "ib_maid_pack:textures/maid_icon.png",
+	"version": "1.0.0",
+	"model_list": [
+		{
+			"model_id": "ib_maid_pack:ib_maid",
+			"description": ["{model.ib_maid_pack.ib_maid.desc}"],
+			"show_hata": false,
+			"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/arm/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "touhou_little_maid:animation/maid/default/leg/default.js", "touhou_little_maid:animation/maid/default/sit/default.js", "touhou_little_maid:animation/maid/default/head/blink.js", "touhou_little_maid:animation/maid/default/sit/skirt_rotation.js", "touhou_little_maid:animation/maid/default/status/sasimono.js"]
+		},
+		{
+			"model_id": "ib_maid_pack:mary_maid",
+			"description": ["{model.ib_maid_pack.mary_maid.desc}"],
+			"show_hata": false,
+			"animation": ["touhou_little_maid:animation/maid/default/head/default.js", "touhou_little_maid:animation/maid/default/head/beg.js", "touhou_little_maid:animation/maid/default/head/music_shake.js", "touhou_little_maid:animation/maid/default/arm/default.js", "touhou_little_maid:animation/maid/default/arm/swing.js", "touhou_little_maid:animation/maid/default/leg/default.js", "touhou_little_maid:animation/maid/default/sit/default.js", "touhou_little_maid:animation/maid/default/head/blink.js", "touhou_little_maid:animation/maid/default/sit/skirt_rotation.js", "touhou_little_maid:animation/maid/default/status/sasimono.js"]
+		}
+	]
+}
